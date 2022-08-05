@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+}
+.page{
+    align-content: center;
+}
+
+.s-head{ text-align: center;
+    font-size: 35px;
+    margin-top: 5%;
+    color: gray;}
+    
+    .fhead{
+        margin-top: 3%;
+    }
+    .hero p{
+        display: block;
+        
+        align-items: center;
+        font-weight: 600;
+        color: gray;
+        
+    }
+    .hero-container{text-align: center;
+    margin-top: 10%;
+    }
+.hero a{
+    color: hsla(0, 98%, 56%, 0.979);
+}
+.btn-div{
+    display: flex;
+ justify-content: center;
+ padding: 5%;
+}
+
+a{
+    text-decoration: none;
+}
+.sia{
+    width: 17rem; 
+    height:3.5rem;
+    margin-right: 15px;
+color: white;
+font-size: 15px;
+background-color: hsla(0, 98%, 56%, 0.979);
+border: none;
+}
+ .sia:hover{
+    background-color: white;
+    color: hsla(0, 98%, 56%, 0.979);
+    border: 1px solid hsla(0, 98%, 56%, 0.979);
+}
+.bia{
+    width: 17rem;
+    font-size: 15px;
+     height:3.5rem;
+    margin-left: 15px;
+    border: 1px solid hsla(0, 98%, 56%, 0.979);
+color: hsla(0, 98%, 56%, 0.979);
+background-color: white;
+}
+.bia:hover{
+    background-color: hsla(0, 98%, 56%, 0.979);
+    color: white;
+}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+
+.heading, .slogan{
+    text-align: center;
+}
+
+footer{
+    align-items: center;
+}
